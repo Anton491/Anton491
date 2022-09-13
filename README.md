@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Toni.
+- 👀 I’m interested in application programming.
+- 🌱 I’m currently learning ABAP.
